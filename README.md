@@ -27,4 +27,4 @@ main.py file has a web server code that can be used for inference. There are IP 
 ## Thanks
 Thanks to 
 - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) for providing the gait feature extraction model.
-- Thanks to [openpose-pytorch](https://github.com/ruiminshen/openpose-pytorch) for providing the PyTorch implementation of OpenPose.
+- [openpose-pytorch](https://github.com/ruiminshen/openpose-pytorch) for providing the PyTorch implementation of OpenPose.
