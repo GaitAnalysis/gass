@@ -2,7 +2,7 @@
 ## Introduction
 This project uses a single camera to capture the gait of a person and then uses the captured video to extract the gait features. The gait features are then used to identify the person. The project is divided into two parts:
 1. Gait Feature Extraction: For this part, OpenPose is used, you need to download the OpenPose weights from [here](https://www.dropbox.com/sh/7xbup2qsn7vvjxo/AABWFksdlgOMXR_r5v3RwKRYa?dl=0). The weights should be placed in the folder `model/`. You may not use OpenPose weights for commercial purposes, please refer to the [license](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/LICENSE)
-2. Classifier: For classifier, an LSTM is used, the model weights are under GPL2 license. You might download the file from 
+2. Classifier: For classifier, an LSTM is used, the model weights are under GPL2 license. You might download the file from [here](https://drive.google.com/file/d/1_tnbuixKJ6Caa2-LWPrj8Yc8OwYzi88t/view?usp=share_link) 
 
 ## Dependencies
   - Python 3.10 and above
