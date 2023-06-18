@@ -25,5 +25,6 @@ Please check the jupyter notebook `train.ipynb` for training the model.
 main.py file has a web server code that can be used for inference. There are IP addresses referring to the web service backend, you might want to delete them. The web service is written in FastAPI and can be run using uvicorn.
 
 ## Thanks
-Thanks to [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) for providing the gait feature extraction model.
-Thanks to [openpose-pytorch](https://github.com/ruiminshen/openpose-pytorch) for providing the PyTorch implementation of OpenPose.
+Thanks to 
+- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) for providing the gait feature extraction model.
+- Thanks to [openpose-pytorch](https://github.com/ruiminshen/openpose-pytorch) for providing the PyTorch implementation of OpenPose.
